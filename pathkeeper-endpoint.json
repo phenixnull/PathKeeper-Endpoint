@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
   "app": "PathKeeper",
-  "serverUrl": "https://5381e10d.r9.cpolar.cn",
+  "serverUrl": "https://137d75a4.r9.cpolar.cn",
   "androidReleaseApiUrl": "https://api.github.com/repos/phenixnull/PathKeeper-Endpoint/releases/latest",
-  "updatedAt": "2026-06-18T02:31:19.011Z"
+  "updatedAt": "2026-06-18T03:04:06.508Z",
+  "androidUpdate": {
+    "packageName": "com.pathkeeper.mobile",
+    "versionCode": 14,
+    "versionName": "0.1.13",
+    "fileName": "pathkeeper-android-debug-v0.1.13-20260618-110352.apk",
+    "sizeBytes": 45604,
+    "sha256": "729B917BE312E744B59B2C19F57A772308546A8CB5D04BEA3FA324E2BCCC32FB",
+    "downloadUrl": "https://github.com/phenixnull/PathKeeper-Endpoint/releases/download/android-v0.1.13/pathkeeper-android-debug-v0.1.13-20260618-110352.apk"
+  }
 }
