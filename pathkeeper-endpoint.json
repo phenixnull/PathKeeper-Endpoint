@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "app": "PathKeeper",
-  "serverUrl": "https://137d75a4.r9.cpolar.cn",
+  "serverUrl": "https://40db439e.r22.cpolar.top",
   "androidReleaseApiUrl": "https://api.github.com/repos/phenixnull/PathKeeper-Endpoint/releases/latest",
-  "updatedAt": "2026-06-18T03:04:06.508Z",
+  "updatedAt": "2026-06-22T05:37:37.846Z",
   "androidUpdate": {
     "packageName": "com.pathkeeper.mobile",
     "versionCode": 14,
